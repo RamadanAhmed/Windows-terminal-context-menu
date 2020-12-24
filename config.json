@@ -12,6 +12,30 @@
         "{2c4de342-38b7-51cf-b940-2309a097f518}": {
             "icon": "ubuntu.ico",
             "label": "Ubuntu"
-        }  
+        },
+        "{30749d50-5a5c-4c0f-8f46-cb10633a42e2}": {
+            "icon": "noetic.ico",
+            "label": "ROS Noetic",
+            "showRunAs": true,
+            "hidden" : false
+        },
+        "{099511bd-421c-4f8f-a8ba-f11d34520bc8}": {
+            "icon": "foxy.ico",
+            "label": "ROS 2 Foxy",
+            "showRunAs": true,
+            "hidden" : false
+        },
+        "{4bbab5f6-a9c7-462c-9a9b-c5ae072d1568}": {
+            "icon": "noetic.ico",
+            "label": "ROS Noetic CMD",
+            "showRunAs": true,
+            "hidden" : false
+        },
+        "{d54fe6de-4c85-46a9-ab60-09a3a4b31ead}": {
+            "icon": "melodic.ico",
+            "label": "ROS Melodic CMD",
+            "ShowRunAs": true,
+            "hidden":false
+        }
     }
 }
